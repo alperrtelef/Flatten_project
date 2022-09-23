@@ -1,4 +1,5 @@
 
+
 def flatten(n):
     for i in n:
         if isinstance(i,list):
